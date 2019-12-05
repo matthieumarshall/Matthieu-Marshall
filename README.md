@@ -1,8 +1,6 @@
-Matthieu Marshall
-
 Tel: 07789843468, Email: [matthieu.marshall@gmail.com](mailto:matthieu.marshall@gmail.com), LinkedIn: [https://uk.linkedin.com/in/matthieu-marshall-18a659a4](https://uk.linkedin.com/in/matthieu-marshall-18a659a4)
 
-Experience
+## Experience
 
 **Data Engineer at Roke Manor Research Ltd** (November 2017 – Present)
 
@@ -44,7 +42,7 @@ Other work activity:
 - Assisted with the organisation and running of workshops with defence stakeholders.
 - Contributed to a business development tasks to produce a Python tool to augment audio data for Machine Learning purposes.
 
-Education
+## Education
 
 **The University of Southampton** (September 2014 – June 2017)
  **    BSc Mathematics with Statistics, First Class Honours**
@@ -57,7 +55,7 @@ Education
 
 - A levels: Mathematics - A, Geography - A, Further Mathematics - B, French – B
 
-Further Experience
+## Further Experience
 
 **Finance Intern at the University of Southampton Professional Services Finance Department** (June 2016 to September 2016)
 
