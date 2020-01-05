@@ -68,7 +68,7 @@ o Used Pivot tables to summarise and present data clearly.
 
 ## Education
 
-### BSc, Mathematics and Statistics, First Class Honours, University of Southampton 2014 - 2017
+### BSc, Mathematics and Statistics, First Class Honours, University of Southampton _(Sep 2014 - Jun 2017)_
 
 - Developed my coding skills with R, carrying out regression, factorial and survival analysis in order to complete
 coursework.
@@ -82,7 +82,7 @@ o Used Simul8 to solve a problem relating to queues in a call centre.
 o Improved my skills in discussing mathematical concepts with my team.
 o Collaborated to deliver high-scoring reports and presentations to academic staff and my peers.
 
-### A levels at The Cherwell School, Oxford 2007 - 2014
+### A levels at The Cherwell School, Oxford _(2007 - 2014)_
 
 Studied for A levels(grade) in French(B), Maths(A), Further Maths(B) and Geography(A), as well as AS levels in Physics(A), Biology(A) and
 General Studies(A).
