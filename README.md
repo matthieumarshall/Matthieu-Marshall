@@ -98,4 +98,6 @@ Introduction to R • DataCamp
 Intro to Python for Data Science • DataCamp
 Intermediate Python for Data Science • DataCamp
 
-References available upon request
+You may download a copy of my CV in both French and English from this GitHub repository https://github.com/matthieumarshall/Matthieu-Marshall
+
+References are also available upon request
