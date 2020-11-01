@@ -1,12 +1,9 @@
-Tel: 07789843468, Email: [matthieu.marshall@gmail.com](mailto:matthieu.marshall@gmail.com), 
+Tel: +447789843468, Email: [matthieu.marshall@gmail.com](mailto:matthieu.marshall@gmail.com), 
 LinkedIn: [https://uk.linkedin.com/in/matthieu-marshall-18a659a4](https://uk.linkedin.com/in/matthieu-marshall-18a659a4)
 
 ## Summary
 
-Engineer working in the Data Science practice of a leading technology consultancy where he has gained experience working
-in a variety of projects using Python for Machine Learning, supporting testing of a complex PostgreSQL database and
-developing a big data platform using Scala, Python, Apache Hive, Hbase and HDFS, among other technologies. Matthieu
-has a strong academic foundation in statistical analysis and modelling.
+Data Engineer with key skills in data wrangling using Python, SQL and Pyspark. Currently working for a market research company using Azure Databricks and Data Factory among other technologies for ETL processes. Previous experience at a technology consultancy working with Python, Scala, SQL and elements of the Hadoop stack for the ingestion, processing and surfacing of data.
 
 ## Experience
 
@@ -71,6 +68,10 @@ o Completed work to deadlines while also carrying out day to day accounting task
 o Discussed with colleagues in order to overcome problems with the project.
 o Used Pivot tables to summarise and present data clearly.
 
+## Skills
+Python • PostgreSQL • Pyspark • Unix • Data Analysis • Statistical Modeling • Agile Methodologies •
+Docker • Hadoop Stack • Azure Databricks • Azure Data Factory • Scala • R 
+
 ## Education
 
 ### BSc, Mathematics and Statistics, First Class Honours, University of Southampton _(Sep 2014 - Jun 2017)_
@@ -90,14 +91,19 @@ o Collaborated to deliver high-scoring reports and presentations to academic sta
 Studied for A levels(grade) in French(B), Maths(A), Further Maths(B) and Geography(A), as well as AS levels in Physics(A), Biology(A) and
 General Studies(A).
 
-## Skills
-Python • PostgreSQL • Pyspark • Unix • Data Analysis • Statistical Modeling • Agile Methodologies •
-Docker • Hadoop Stack • Azure Databricks • Azure Data Factory • Scala • R 
-
 ## Certifications
-Introduction to R • DataCamp
-Intro to Python for Data Science • DataCamp
+Advanced Python • LinkedIn Learning
+Advanced SQL for Machine Learning • LinkedIn Learning
+Using Power BI with Excel • LinkedIn Learning
 Intermediate Python for Data Science • DataCamp
+Understanding Machine Learning with Python • Pluralsight
+Introduction to R • DataCamp
+
+## Awards & References
+**Award for work on Programme NELSON while at Roke Manor Research Ltd** _(April 2020)_
+“Matthieu ... ended up working most of the weekend to resolve issues. He did this off his own back which highlights the level of professionalism and dedication he always applies, and why he is one of the strongest people we have on the programme.... I can’t thank him enough for his efforts.
+This is an outstanding effort, particularly during the current times. Matthieu is a very well-respected member of the team, and recently he has been taking on more responsibility and using his own initiative to solve problems as they arise.”
+
 
 You may download a copy of my CV in both French and English from this GitHub repository [https://github.com/matthieumarshall/Matthieu-Marshall](https://github.com/matthieumarshall/Matthieu-Marshall)
 
