@@ -92,12 +92,12 @@ Studied for A levels(grade) in French(B), Maths(A), Further Maths(B) and Geograp
 General Studies(A).
 
 ## Certifications
-Advanced Python • LinkedIn Learning
-Advanced SQL for Machine Learning • LinkedIn Learning
-Using Power BI with Excel • LinkedIn Learning
-Intermediate Python for Data Science • DataCamp
-Understanding Machine Learning with Python • Pluralsight
-Introduction to R • DataCamp
+Advanced Python • LinkedIn Learning  
+Advanced SQL for Machine Learning • LinkedIn Learning  
+Using Power BI with Excel • LinkedIn Learning  
+Intermediate Python for Data Science • DataCamp  
+Understanding Machine Learning with Python • Pluralsight  
+Introduction to R • DataCamp  
 
 ## Awards & References
 **Award for work on Programme NELSON while at Roke Manor Research Ltd** _(April 2020)_
