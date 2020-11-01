@@ -69,7 +69,7 @@ o Discussed with colleagues in order to overcome problems with the project.
 o Used Pivot tables to summarise and present data clearly.
 
 ## Skills
-Python • PostgreSQL • Pyspark • Unix • Data Analysis • Statistical Modeling • Agile Methodologies •
+Python • PostgreSQL • Pyspark • Unix • Data Analysis • Statistical Modeling • Agile Methodologies •  
 Docker • Hadoop Stack • Azure Databricks • Azure Data Factory • Scala • R 
 
 ## Education
@@ -101,7 +101,7 @@ Introduction to R • DataCamp
 
 ## Awards & References
 **Award for work on Programme NELSON while at Roke Manor Research Ltd** _(April 2020)_
-“Matthieu ... ended up working most of the weekend to resolve issues. He did this off his own back which highlights the level of professionalism and dedication he always applies, and why he is one of the strongest people we have on the programme.... I can’t thank him enough for his efforts.
+“Matthieu ... ended up working most of the weekend to resolve issues. He did this off his own back which highlights the level of professionalism and dedication he always applies, and why he is one of the strongest people we have on the programme.... I can’t thank him enough for his efforts.  
 This is an outstanding effort, particularly during the current times. Matthieu is a very well-respected member of the team, and recently he has been taking on more responsibility and using his own initiative to solve problems as they arise.”
 
 
