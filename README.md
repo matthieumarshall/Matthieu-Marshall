@@ -10,8 +10,14 @@ has a strong academic foundation in statistical analysis and modelling.
 
 ## Experience
 
-### Data Engineer at Roke Manor Research Lld _(Nov 2017- Present)_
+### Data Engineer at Redslim _(July 2020 - Present)_
+Worked in a small Agile Scrum team developing tools to ingest and enrich sales data for use by Headquarters and Analysts, largely within the FMCG and Pharmaceutical industry.
+ - Used Azure Databricks to clean and process sales data into a standard format.
+ - Migrated ETL steps from SQL to Pyspark.
+ - Coordinated ETL processes using Azure Data Factory.
+ - Worked with Azure Dev Ops to manage work items and administer CI pipelines.
 
+### Data Engineer at Roke Manor Research Lld _(Nov 2017 - July 2020)_
 I started at Roke on the graduate development program, which I finished in November 2019 when I was promoted to a Data Engineer. During this time, I have been involved in the following:
 
 Project supporting development of a Big Data Pipeline for use in the defence domain.
@@ -48,7 +54,6 @@ Other work activity:
 - Assisted with the organisation and running of workshops with defence stakeholders.
 
 ### Finance Intern at the University of Southampton _(Jun 2016 - Sep 2016)_
-
 My primary role as an intern with the Professional Services Finance Department at the University of Southampton
 was to prepare a data set for benchmarking analysis. In doing so, I built on the following skills:
 - Technical knowledge
@@ -69,7 +74,6 @@ o Used Pivot tables to summarise and present data clearly.
 ## Education
 
 ### BSc, Mathematics and Statistics, First Class Honours, University of Southampton _(Sep 2014 - Jun 2017)_
-
 - Developed my coding skills with R, carrying out regression, factorial and survival analysis in order to complete
 coursework.
 - Built on my modelling skills, learning about the properties and applications of a range of statistical distributions in
@@ -83,17 +87,14 @@ o Improved my skills in discussing mathematical concepts with my team.
 o Collaborated to deliver high-scoring reports and presentations to academic staff and my peers.
 
 ### A levels at The Cherwell School, Oxford _(2007 - 2014)_
-
 Studied for A levels(grade) in French(B), Maths(A), Further Maths(B) and Geography(A), as well as AS levels in Physics(A), Biology(A) and
 General Studies(A).
 
 ## Skills
-
-Python • PostgreSQL • Data Analysis • Statistical Modeling • Scala • R • Agile Methodologies •
-Docker • Hadoop Stack
+Python • PostgreSQL • Pyspark • Unix • Data Analysis • Statistical Modeling • Agile Methodologies •
+Docker • Hadoop Stack • Azure Databricks • Azure Data Factory • Scala • R 
 
 ## Certifications
-
 Introduction to R • DataCamp
 Intro to Python for Data Science • DataCamp
 Intermediate Python for Data Science • DataCamp
