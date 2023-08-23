@@ -8,11 +8,19 @@ Data Engineer with key skills in data wrangling using Python, SQL and Pyspark. C
 ## Experience
 
 ### Data Engineer at Redslim _(July 2020 - Present)_
-Worked in a small Agile Scrum team developing tools to ingest and enrich sales data for use by Headquarters and Analysts, largely within the FMCG and Pharmaceutical industry.
- - Used Azure Databricks to clean and process sales data into a standard format.
- - Migrated ETL steps from SQL to Pyspark.
- - Coordinated ETL processes using Azure Data Factory.
- - Worked with Azure Dev Ops to manage work items and administer CI pipelines.
+In this role as the most senior Python developer in the company, my technical achievements and projects have been:
+
+- Developed a library using Pyspark to clean and process sales data into a standard format.
+- Migrated ETL steps from SQL to Pyspark.
+- Coordinated ETL processes run on Databricks and Azure SQL Server using Azure Data Factory.
+- Developed custom Python/Pyspark scripts to transform data according to client needs.
+- Managed deployment and setup of Databricks & Storage resources in Azure using bicep & powershell scripts.
+- Worked with Azure DevOps to manage work items and administer CI pipelines.
+- Wrote stored procedures for loading data from Azure Storage to Azure SQL Server databases.
+- Migrated running Python code from virtual machines to Azure Docker Instance.
+- Supported the increasing adoption of Agile methodologies within the team and wider company.
+
+I have also grown in my soft skills by interviewing for, onboarding and coaching members of the Python development team as well as discussing wider business requirements with management to feed and refine our backlog of work.
 
 ### Data Engineer at Roke Manor Research Lld _(Nov 2017 - July 2020)_
 I started at Roke on the graduate development program, which I finished in November 2019 when I was promoted to a Data Engineer. During this time, I have been involved in the following:
