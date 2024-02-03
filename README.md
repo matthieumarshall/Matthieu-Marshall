@@ -7,18 +7,18 @@ Data Engineer with key skills in data wrangling using Python, SQL and Pyspark. C
 
 ## Experience
 
-### Data Engineer at Redslim _(July 2020 - Present)_
-In this role as the most senior Python developer in the company, my technical achievements and projects have been:
+### Data Engineering Lead at Redslim _(July 2020 - Present)_
+Worked in a small Agile Scrum developing tools to ingest and enrich sales data for use by Headquarters and Analysts, largely within the FMCG and Pharmaceutical Industry
 
-- Developed a library using Pyspark to clean and process sales data into a standard format.
-- Migrated ETL steps from SQL to Pyspark.
-- Coordinated ETL processes run on Databricks and Azure SQL Server using Azure Data Factory.
-- Developed custom Python/Pyspark scripts to transform data according to client needs.
-- Managed deployment and setup of Databricks & Storage resources in Azure using bicep & powershell scripts.
-- Worked with Azure DevOps to manage work items and administer CI pipelines.
-- Wrote stored procedures for loading data from Azure Storage to Azure SQL Server databases.
-- Migrated running Python code from virtual machines to Azure Docker Instance.
-- Supported the increasing adoption of Agile methodologies within the team and wider company.
+•	Developed a library using Pyspark to clean and process sales data into a standard format.
+•	Migrated ETL steps from SQL to Pyspark.
+•	Coordinated ETL processes run on Databricks and Azure SQL Server using Azure Data Factory.
+•	Developed custom Python/Pyspark scripts to transform data according to client needs.
+•	Worked with Azure DevOps to manage work items and administer CI pipelines.
+•	Wrote stored procedures for loading data from Azure Storage to Azure SQL Server databases.
+•	Supported proof of concept development of running Python code in Azure Container Instance.
+•	Developed a server-side data application service making use of fastAPI, duckdb and PyArrow.
+•	Supported the increasing adoption of Agile methodologies within the team and wider company.
 
 I have also grown in my soft skills by interviewing for, onboarding and coaching members of the Python development team as well as discussing wider business requirements with management to feed and refine our backlog of work.
 
